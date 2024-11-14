@@ -1,0 +1,17 @@
+account_number,account_status,note_type,updated_by,designation
+ACC001,Active,Annual Review,John Doe,Retirement Fund
+ACC002,Active,Investment Update,Mary Smith,Investment Account
+ACC004,Active,Account Closure,Linda White,Tax-Free Savings
+ACC005,Active,Risk Assessment,James Green,Investment Account
+ACC006,Active,Beneficiary Change,Sophia Black,Retirement Fund
+ACC007,Active,Withdrawal Request,William Gray,Investment Account
+ACC008,Active,Deposit Confirmation,Isabella Blue,Tax-Free Savings
+ACC010,Active,Account Inquiry,Charlotte Orange,Investment Account
+ACC011,Active,Account Review,Henry Gold,Retirement Fund
+ACC012,Active,Update Preferences,Oliver Silver,Investment Account
+ACC014,Active,Client Meeting Notes,Mia White,Tax-Free Savings
+ACC015,Active,Investment Strategy,Liam Green,Investment Account
+ACC016,Active,Performance Review,Ella Blue,Retirement Fund
+ACC017,Active,Account Feedback,James Red,Investment Account
+ACC018,Active,New Investment Plan,Isabella Yellow,Tax-Free Savings
+ACC020,Active,Final Account Review,Charlotte Grey,Investment Account

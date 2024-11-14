@@ -1,0 +1,3 @@
+account_number,account_status_source,note_type_source,updated_by_source,designation_source,account_status_target,note_type_target,updated_by_target,designation_target,_merge
+ACC018,Active,New Investment Plan,Isabella Yellow,Tax-Free Savings,Inactive,New Investment Plan,Isabella Yellow,Tax-Free Savings,both
+ACC020,Active,Final Account Review,Charlotte Grey,Investment Account,Inactive,Final Account Review,Charlotte Grey,Investment Account,both
